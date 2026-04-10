@@ -1,0 +1,1 @@
+# KomputerVision_KlasifikasiCitraTumorOtakMetodeRandomForest
